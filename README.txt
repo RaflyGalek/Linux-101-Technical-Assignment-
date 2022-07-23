@@ -21,5 +21,20 @@ diantaranya ialah
 - Qlue)
 
 cd ..
+
 cd kerja/
+touch cv.txt
+nano cv.txt
+(Assalamualaikum
+Perkenalkan nama saya Rafly,saya memiliki kegemaran
+- Membaca
+- Bermain dan mendengarkan musik
+- Main Game)
+cat cv.txt
+
+cd ..
+mv sekolah/portofolio.txt kerja/portofolio.txt
+
+
+
 
